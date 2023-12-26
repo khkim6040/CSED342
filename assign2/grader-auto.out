@@ -1,0 +1,17 @@
+extraCredit: 0
+fatalError: false
+maxExtraCredit: 0
+maxTotalPoints: 0
+messages: []
+mode: auto
+parts:
+- description: ''
+  extraCredit: false
+  maxPoints: 1
+  maxSeconds: 3
+  messages:
+  - Time limit (3 seconds) exceeded.
+  name: 3b-1-hidden
+  points: 0
+  seconds: 27
+totalPoints: 0
