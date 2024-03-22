@@ -7,7 +7,6 @@ import types
 import tkinter
 
 _Windows = sys.platform == 'win32'  # True if on Win95/98/NT
-dfs
 _root_window = None      # The root window for graphics output
 _canvas = None      # The canvas which holds graphics
 _canvas_xs = None      # Size of canvas object
