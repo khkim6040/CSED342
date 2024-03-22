@@ -30,5 +30,5 @@ W11. CSP2 (HW6 out)\
 W12. Bayes1\
 W13. Bayes2&3 (HW7 out)\
 W14. Logics\
-W15. Conclusion (HW8 out)\
+W15. Conclusion (HW8 out.. _Actually we did not learn Logics, also do HW8_)\
 W16. Final exam
